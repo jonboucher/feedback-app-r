@@ -33,6 +33,11 @@ header {
   margin-bottom: 30px;
 }
 
+header a {
+  color: #ff6a95;
+  text-decoration: none;
+}
+
 .card {
   background-color: #fff;
   color: #333;
